@@ -11,4 +11,6 @@ GROUP BY
   album,
   artista
 ORDER BY
-  seguidores DESC;
+  seguidores DESC,
+  artista,
+  album;
